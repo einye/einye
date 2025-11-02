@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @einye
-- 👀 I’m interested in game development
+- 👀 I’m interested in game development and cybersecurity
 - 🌱 I’m currently learning computer science
 
 <!---
