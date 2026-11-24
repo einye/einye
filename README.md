@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @einye
-- 👀 I’m interested in game development and cybersecurity
+- 👀 I’m interested in game development, networking and cybersecurity
