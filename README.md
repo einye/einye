@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @einye
 - 👀 I’m interested in game development, networking and cybersecurity
+- I'm open to SOC Analyst roles
